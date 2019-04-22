@@ -1,0 +1,56 @@
+body{
+margin: 0px;
+padding: 0px;
+}
+.menu{
+    width: 700px;
+    height: 650px;
+    background-color: #e5e5e5;
+    margin-left: 350px;
+    padding-top:62px;
+    padding-bottom: 62px;
+}
+.ic{
+    width: 550px;
+    height: 650px;
+    background-color: white;
+    margin-left:80px;
+   
+}
+#L{
+    font-family: Kunstler Script;
+    font-size: 70px;
+    margin-left:160px;
+    color:silver;
+    letter-spacing: 10px;
+    line-height: 60px;
+    margin-top:40px;
+}
+
+
+#s{
+    margin-left:320px;
+    
+}
+#s2{
+    margin-top: 146px;
+    margin-right: 20px;
+}
+#w{
+    font-size: 120px;
+    margin-left:-25px;
+}
+#I{
+    font-family: Baskerville Old Face;
+    text-align: center;
+    word-spacing: 4px;
+    letter-spacing: 1.3px;
+    color: silver;
+    margin-top: 50px;
+}
+#R{
+    font-family: French Script MT;
+    font-size: 50px;
+    color:silver;
+    text-align: center;
+}
